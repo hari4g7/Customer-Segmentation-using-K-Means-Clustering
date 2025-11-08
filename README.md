@@ -29,7 +29,7 @@ The dataset typically includes the following customer details:
 
 5.Spending Score
 
-**Methodology**
+**Methodology:**
 
 **Data Collection**
 
@@ -43,7 +43,7 @@ Collected customer data containing income and spending patterns.
 
 3.Scaled data to improve clustering performance
 
-**Elbow Method:**
+**Elbow Method**
 
 Used the Elbow Method to find the optimal number of clusters (k value).
 
